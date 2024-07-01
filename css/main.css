@@ -352,8 +352,8 @@ h2~p {
 }
 
 /* モバイルメニュースタイル */
-.moble-menu-check,
-.show-mobile-menu  {
+.mobile-menu-check,
+.show-mobile-menu {
   display: none;
 }
 
